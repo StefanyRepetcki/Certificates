@@ -27,6 +27,7 @@
 - [Curso Vue.js_ testes unitários automatizados com Jest](./Curso%20Vue.js_%20testes%20unitários%20automatizados%20com%20Jest%20-%20Alura.pdf)
 
 ```mermaid
+
 gantt
     title Linha do Tempo Certificados
     dateFormat  YYYY-MM-DD
@@ -41,7 +42,7 @@ gantt
     Java Primeiros Passos :done,       des6, 2019-04-15, 2019-04-28
     Curso de MySQL :done, des7, 2019-05-01, 2019-05-15
     Introdução ao PHP orientado a Objetos  :done, des8, 2019-05-15, 2019-05-28
-    Mulheres na Tecnologia - Como Romper a Barreira de Gênero :done, des9, 2022-02-01, 2022-02-01
+    Mulheres na Tecnologia - Como Romper a Barreira de Gênero :done, des9, 2022-02-01, 2022-02-15
     Vue.js testes unitários automatizados com Jest :done, des10, 2022-03-01, 2022-03-15
     Vue.js parte 1 construindo Single Page Applications :done, des11, 2022-03-15, 2022-03-28
     Vue.js parte 2 construindo Single Page Applications :done, des12, 2022-04-01, 2022-04-15
@@ -55,8 +56,8 @@ gantt
     Liderança - aprendendo sobre a missão e propósito de liderar pessoas :done, des20, 2022-09-01, 2022-09-15
     Como Liderar e Motivar Diferentes Personalidades no Ambiente de Trabalho :done, des21, 2023-03-01, 2023-03-15
     Conversas (nem) tão difíceis no trabalho :done, des22, 2023-06-01, 2023-06-15
-    Graduação - Análise e desenvolvimento de sistemas :done, des23, 2018-09-01, 2021-09-01
-    Pós Graduação - Gestão de TI :done, des24, 2022-09-01, 2023-05-15
-    Pós Graduação - Segurança Cibernética :done, des25, 2022-09-01, 2023-05-15
-    Em breve ... :active,  des26, 2023-09-01, 2023-10-10
+    Graduação - Análise e desenvolvimento de sistemas :active, des23, 2018-09-01, 2021-09-01
+    Pós Graduação - Gestão de TI :active, des24, 2022-09-01, 2023-05-15
+    Pós Graduação - Segurança Cibernética :active, des25, 2022-09-01, 2023-05-15
+    Em breve ... :crit,  des26, 2023-09-01, 2023-12-10
 ```
