@@ -59,5 +59,7 @@ gantt
     Graduação - Análise e desenvolvimento de sistemas :active, des23, 2018-09-01, 2021-09-01
     Pós Graduação - Gestão de TI :active, des24, 2022-09-01, 2023-05-15
     Pós Graduação - Segurança Cibernética :active, des25, 2022-09-01, 2023-05-15
-    Em breve ... :crit,  des26, 2023-09-01, 2023-12-10
+    Pós Graduação - Engenharia da Computação :active, des26, 2023-11-01, 2024-08-15
+    Pós Graduação - Engenharia de Software para dispositivos móveis :active, des27, 2023-11-01, 2024-08-15
+    Em breve ... :crit,  des26, 2024-09-01, 2024-12-10
 ```
